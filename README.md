@@ -51,10 +51,13 @@ https://aws.amazon.com/certification/certification-prep/ </br>
 <summary>Recommended Path to Prepare for the AWS Certified Developer - Associate Exam</summary>
 <pre>
 
-
 </pre>
 </details>
 
+https://aws.amazon.com/blogs/aws/?src=aws_training <br/>
+https://www.aws.training/ <br/>
+https://www.certmetrics.com/amazon/ <br/>
+https://aws.amazon.com/certification/certification-prep/ <br/>
 
 
 
