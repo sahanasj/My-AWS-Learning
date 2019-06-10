@@ -5,6 +5,8 @@ Some of the useful links which i found when researching on my own to get started
 This is one of the important certification which was in my wait queue for quite some time.
 Today, I strongly followed with positive believe in passing through the exam with guidance of my Guru.
 
+<img src="https://github.com/sahanasj/My-personal-assest/blob/master/AWS-Images/SahanaJSJ-AWS-Associate-Developer-Cert.PNG" height="500" width="850">
+
 ## AWS Free Tier, Getting started: AWS Free Tier (12 months)
 
 The AWS Free Tier enables you to gain free, hands-on experience with the AWS platform, products, and services.</br>
