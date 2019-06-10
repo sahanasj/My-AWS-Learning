@@ -49,6 +49,9 @@ https://aws.amazon.com/getting-started/
 ## Prepare for AWS Certified Developer - Associate Certification!(June 2018)
 https://aws.amazon.com/certification/certification-prep/ </br>
 
+## Quick Tutorials/Videos for AWS Public Cloud - Learnings
+https://github.com/sahanasj/aws-learnings
+
 <details>
 <summary>Recommended Path to Prepare for the AWS Certified Developer - Associate Exam</summary>
 <pre>
